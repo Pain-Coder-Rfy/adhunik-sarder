@@ -1,0 +1,33 @@
+.bg-light{
+    background: none !important
+}
+.container{
+ margin-bottom: 80px;
+}
+.button{
+    background: #000;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+.banner-section{
+    background: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    height: 400px;
+    
+}
+.banner{
+    background: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80px 400px;
+    
+    
+}
+.carousel-item{
+    padding: 0 auto;
+}
+.right-bg{
+   
+}
