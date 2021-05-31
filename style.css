@@ -31,3 +31,40 @@
 .right-bg{
    
 }
+.see-all{
+    color: rgb(251, 192, 80);
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-body{
+    padding: 10px 20px;
+}
+.middle{
+    align-items: center;
+}
+.card-text{
+    text-align: center;
+}
+.card-title {
+    font-weight: 600;
+    font-size:28px;
+    font-family: 'Oswald', sans-serif;
+}
+.card-footer{
+    background:none;
+    border-top: none;
+}
+@media (max-width: 768px){
+    .banner-section{
+        display: contents;
+    }
+}
+p,small{
+    color: rgb(143, 140, 140) !important;
+}
+h3{
+    font-family: 'Pattaya', sans-serif;
+}
